@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Yagna791
-- 👀 I’m interested in Ethical Hacking
+- 👀 I’m interested in role that require problem solving skills
 - 🌱 I’m currently learning Cyber Security
 
 <!---
